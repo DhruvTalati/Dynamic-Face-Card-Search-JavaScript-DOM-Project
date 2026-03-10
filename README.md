@@ -6,6 +6,12 @@ This project was built to practice **DOM manipulation, dynamic rendering, and li
 
 ---
 
+## Live Demo
+
+🔗 https://dhruvtalati.github.io/Dynamic-Face-Card-Search-JavaScript-DOM-Project/
+
+---
+
 ## Project Overview
 
 The application displays multiple **profile cards** containing:
