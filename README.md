@@ -5,11 +5,12 @@ A responsive web application that dynamically generates **user profile cards** a
 This project was built to practice **DOM manipulation, dynamic rendering, and live search filtering** using **Vanilla JavaScript**.
 
 ---
+## Screenshots
 
-## Live Demo
-
-🔗 https://dhruvtalati.github.io/Dynamic-Face-Card-Search-JavaScript-DOM-Project/
-
+<p align="center">
+  <img src="UI%20OF%20THE%20WEBSITE.png" width="45%">
+  <img src="SERACH%20FILTERS.png" width="45%">
+</p>
 ---
 
 ## Project Overview
